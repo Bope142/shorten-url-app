@@ -12,7 +12,7 @@ Grâce à ce projet vous allez facilement assimiler le principe d’appel API en
 
 GitHub repository : https://github.com/Bope142/shorten-url-app.git
 
-La page web :  https://web-cv-resume.netlify.app/
+La page web :  https://shortenurlapp.netlify.app/
 
 # My process
 
